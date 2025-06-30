@@ -26,8 +26,8 @@ Busco oportunidades para aplicar meus conhecimentos em testes manuais e automati
 
 ## 📂 Meus Projetos em Destaque
 
-- 🔍 [Testes no Swag Labs com Selenium](https://github.com/EhrickAyrhand/testes-selenium-swaglabs)
-- 🛒 [E-commerce com automação Cypress](https://github.com/EhrickAyrhand/automacao-cypress-ecommerce)
+- 🔍 [Testes no Swag Labs com Selenium](https://github.com/EhrickAyrhand/Swag-Labs-Test)
+- 🛒 [Teste real no site Kabum com Selenium](https://github.com/EhrickAyrhand/Kabum-test)
 - 📖 [Criação de tópicos automatizada com Cypres](https://github.com/EhrickAyrhand/Bardgoblin)
 
 
