@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Ehrick Ayrhand 
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, focado em Quality Assurance e automação de testes, em transição de carreira. Tenho experiência prática com Python, JavaScript, Selenium, Cypress e Pytest, além de conhecimento em bancos de dados MySQL e SQLite. 
+Atualmente cursando Análise e Desenvolvimento de Sistemas, focado em Quality Assurance e automação de testes. Tenho experiência prática com Python, JavaScript, Selenium, Cypress e Pytest, além de conhecimento em bancos de dados MySQL e SQLite. 
 
 Busco oportunidades para aplicar meus conhecimentos em testes manuais e automatizados em conjunto com meu breve conhecimento de front-end, com atenção aos mínimos detalhes e às melhores práticas de desenvolvimento e qualidade de software. Tenho forte aprendizado em novas tecnologias, trabalho em equipe e comunicação clara e assertiva para contribuir efetivamente em projetos dos mais diversos tipos.
 
