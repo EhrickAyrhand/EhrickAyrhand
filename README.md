@@ -27,7 +27,7 @@ Busco oportunidades para aplicar meus conhecimentos em testes manuais e automati
 ## 📂 Meus Projetos em Destaque
 
 - 🔍 [Testes no Swag Labs com Selenium](https://github.com/EhrickAyrhand/Swag-Labs-Test)
-- 🛒 [Teste real no site Kabum com Selenium](https://github.com/EhrickAyrhand/Kabum-test)
+- 🛒 [App criado do zero](https://github.com/EhrickAyrhand/SaveYourGoblin)
 - 📖 [Criação de tópicos automatizada com Cypres](https://github.com/EhrickAyrhand/Bardgoblin)
 
 
