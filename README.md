@@ -1,9 +1,11 @@
 # 👋 Olá, eu sou Ehrick Ayrhand 
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas, focado em Quality Assurance e automação de testes. Tenho experiência prática com Python, JavaScript, Selenium, Cypress e Pytest, além de conhecimento em bancos de dados MySQL e SQLite. 
-
-Busco oportunidades para aplicar meus conhecimentos em testes manuais e automatizados em conjunto com meu breve conhecimento de front-end, com atenção aos mínimos detalhes e às melhores práticas de desenvolvimento e qualidade de software. Tenho forte aprendizado em novas tecnologias, trabalho em equipe e comunicação clara e assertiva para contribuir efetivamente em projetos dos mais diversos tipos.
-
+Desenvolvedor Full Stack com domínio em TypeScript, React, Next.js e Node.js, e diferencial em 
+programação agêntica: desenvolvimento de agentes com Claude API, criação e integração de MCP Servers 
+customizados e de terceiros, e automação de pipelines com IA. Experiência na construção de aplicações 
+SaaS completas do zero até produção, integração com múltiplas APIs externas e atuação em ambientes 
+ágeis de ritmo acelerado — incluindo experiência remota internacional no Canadá. Perfil autônomo, com alto 
+nível de capricho técnico, ambição e foco em impacto real no produto.
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
