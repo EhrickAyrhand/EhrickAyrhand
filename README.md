@@ -1,11 +1,14 @@
 # 👋 Olá, eu sou Ehrick Ayrhand 
 
-Desenvolvedor Full Stack com domínio em TypeScript, React, Next.js e Node.js, e diferencial em 
-programação agêntica: desenvolvimento de agentes com Claude API, criação e integração de MCP Servers 
-customizados e de terceiros, e automação de pipelines com IA. Experiência na construção de aplicações 
-SaaS completas do zero até produção, integração com múltiplas APIs externas e atuação em ambientes 
-ágeis de ritmo acelerado — incluindo experiência remota internacional no Canadá. Perfil autônomo, com alto 
-nível de capricho técnico, ambição e foco em impacto real no produto.
+## 👨‍💻 Sobre mim
+
+Desenvolvedor Full Stack com foco em TypeScript, React, Next.js e Node.js.
+
+Especializado em programação agêntica, incluindo desenvolvimento de agentes com Claude API, criação de MCP Servers e automação de pipelines com IA.
+
+Experiência no desenvolvimento de aplicações SaaS end-to-end, integração com múltiplas APIs e atuação em ambientes ágeis — com vivência internacional remota no Canadá.
+
+Perfil autônomo, com alto padrão técnico e foco em impacto real no produto.
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
