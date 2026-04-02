@@ -23,6 +23,7 @@ Perfil autônomo, com alto padrão técnico e foco em impacto real no produto.
 ### 🚀 Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
 ---
 
@@ -36,9 +37,17 @@ Perfil autônomo, com alto padrão técnico e foco em impacto real no produto.
 
 ### 🧪 QA / Testes
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=python&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-BDD-23D96C?logo=cucumber)
+
+---
+
+### 🤖 IA / Automação Inteligente
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat)
+![MCP](https://img.shields.io/badge/-MCP-FF6F00?style=flat)
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-6E59F5?style=flat)
 
 ---
 
@@ -53,15 +62,6 @@ Perfil autônomo, com alto padrão técnico e foco em impacto real no produto.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
-
----
-
-## 📂 Meus Projetos em Destaque
-
-- 🔍 [Testes no Swag Labs com Selenium](https://github.com/EhrickAyrhand/Swag-Labs-Test)
-- 🛒 [App criado do zero](https://github.com/EhrickAyrhand/SaveYourGoblin)
-- 📖 [Criação de tópicos automatizada com Cypres](https://github.com/EhrickAyrhand/Bardgoblin)
-
 
 ---
 
