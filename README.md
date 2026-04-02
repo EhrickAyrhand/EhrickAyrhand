@@ -9,6 +9,7 @@ Especializado em programação agêntica, incluindo desenvolvimento de agentes c
 Experiência no desenvolvimento de aplicações SaaS end-to-end, integração com múltiplas APIs e atuação em ambientes ágeis — com vivência internacional remota no Canadá.
 
 Perfil autônomo, com alto padrão técnico e foco em impacto real no produto.
+
 ---
 
 ## ⚙️ Tecnologias e Ferramentas
